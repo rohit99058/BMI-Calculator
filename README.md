@@ -18,32 +18,30 @@ A simple and stylish BMI (Body Mass Index) Calculator built using **ReactJS** �
 
 ## 📸 Preview
 
-![BMI Calculator Demo](your-image-link-if-any)
+[BMI Calculator Demo] https://bmi-calculator-v6iy.onrender.com
 
 ## 🧑‍💻 How to Use
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/your-username/bmi-calculator-app.git
-   cd bmi-calculator-app
-Install dependencies:
+   git clone https://github.com/rohit99058/BMI-Calculator.git
+   cd BMI-Calculator
 
-bash
-Copy
-Edit
-npm install
-Run the app:
+# Install dependencies:
+  npm install
 
-bash
-Copy
-Edit
-npm start
+  
+# Run the app:
+  npm start
+
+
 Adjust the weight and height sliders to see your BMI instantly! 🎉
 
-🔄 Reset Functionality
+# Reset Functionality 🔄
 Click the "🔄 Reset" button to set weight and height back to 0. Useful for starting fresh calculations quickly.
 
-📚 Learnings
+# Learnings 📚
+
 Practical use of React useState and useMemo
 
 Managing controlled inputs with sliders
