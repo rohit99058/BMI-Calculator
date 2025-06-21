@@ -23,15 +23,17 @@ A simple and stylish BMI (Body Mass Index) Calculator built using **ReactJS** �
 ## 🧑‍💻 How to Use
 
 1. Clone the repo:
-   ```bash
+
    git clone https://github.com/rohit99058/BMI-Calculator.git
    cd BMI-Calculator
 
-# Install dependencies:
+2. Install dependencies:
+
   npm install
 
   
-# Run the app:
+3. Run the app:
+
   npm start
 
 
